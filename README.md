@@ -1,33 +1,22 @@
-## Welcome to My Awesome Data Story
+## Hey! My name is Brian. Let's get started.
 
 ![Profile Image](https://bmf314.github.io/brianmfriedman/)
 
+At the risk of spoiling the end of a great startup story, here is what happened: After three crazy years, my San Francisco-based company, LOOPD, was bought in December 2016 by Aventri, a major, cloud-based, events management software company based in Norwalk, Connecticut.
 
-You can use the [editor on GitHub](https://github.com/BMF314/brianmfriedman/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In 2017, I relocated to Connecticut and now I serve as the Aventri VP of Digital Innovation, leading the company’s digital strategic objectives. In this role, I work to identify and articulate new product and growth opportunities that can transform—and even disrupt—the events market. Recently, I finished writing my book, Takeaways: Secret truths from leading a startup, that will be released in early 2019. I feature my top insights weekly on my personal blog: OWN IT.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Previously, I was the CEO and cofounder of LOOPD, the emerging leader in offline analytics that utilized socially smart wearables and actionable metrics to help marketers understand, target, and interact with customers. Loopd brought a unique twist to analytics by facilitating and documenting two-way live engagement between customers and others at corporate events. 
 
-### Markdown
+Aventri acquired LOOPD after we had raised $2.5 million from leading investors including Marc Benioff (CEO of Salesforce) and Tim Draper (leading Silicon Valley venture capitalist). Customers included corporate giants like Intel and Cisco and successful startups like Twilio, MongoDB, and Box. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Prior to launching LOOPD, I studied materials science, product design, and entrepreneurship at Lehigh University in Bethlehem, PA, and at Draper University (a residential startup school) in Silicon Valley. 
 
-```markdown
-Syntax highlighted code block
+All of this hard work demands an outlet for release, and I am an avid fan of action sports and outdoor activity. I am a former competitive snowboarder and now I enjoy kiteboarding, mountain biking, and international adventuring, having recently logged trips to India, Iceland, China, Portugal, and Japan. 
 
-# Header 1
-## Header 2
-### Header 3
+For more about my story, see: medium.com/@Loopd/meet-brian-friedman-10272a3ba54b
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+For all of my public content, see: brianmfriedman.com
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
