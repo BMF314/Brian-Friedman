@@ -1,4 +1,4 @@
-## Hey! My name is Brian. Let's get started.
+## **Hey! My name is Brian. Let's get started.**
 
 ![Profile Image](https://lh3.googleusercontent.com/9rBudEdMQ_J6vLaIcsKvHD0EDbqApB-dVsWiq77zUiNoPpkhkZdR2bS7mUfbKRv-2tHCN_xlZiGNZy6ufYrrk5yjWBHcPPetYYaU)
 
