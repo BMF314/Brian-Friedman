@@ -1,6 +1,6 @@
 ## Hey! My name is Brian. Let's get started.
 
-![Profile Image](https://ibb.co/7Xc907z)
+![Profile Image](https://lh3.googleusercontent.com/tJZ-B5Z-RU_f-ofrG75uszQDRLp1UNwaZUQdVAZPBqOaYzwrGTIOFF3dJASaRHgZCg2SLNvV18g1G9blwb1eSP51Ld5NDQ1-XRp4)
 
 In 2017, I relocated to Connecticut and now I serve as the Aventri VP of Digital Innovation, leading the company’s digital strategic objectives. In this role, I work to identify and articulate new product and growth opportunities that can transform—and even disrupt—the events market. Recently, I finished writing my book, Takeaways: Secret truths from leading a startup, that will be released in early 2019. I feature my top insights weekly on my personal blog: OWN IT.
 
