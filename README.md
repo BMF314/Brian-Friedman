@@ -10,6 +10,6 @@ All of this hard work demands an outlet for release, and I am an avid fan of act
 
 Read my [**blog.**](https://www.medium.com/own-it)
 
-Check out my personal [**website.**](https://www.brianmfriedman.com)
+Check out my personal [**website.**](http://brianmfriedman.com/)
 
 Connect with me on [**Instagram.**](https://www.instagram.com/brianmfriedman/)
