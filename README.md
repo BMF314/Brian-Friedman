@@ -8,7 +8,7 @@ Previously, I was the CEO and cofounder of LOOPD, the emerging leader in offline
 
 All of this hard work demands an outlet for release, and I am an avid fan of action sports and outdoor activity. I am a former competitive snowboarder and now I enjoy kiteboarding, mountain biking, and international adventuring, having recently logged trips to India, Iceland, China, Portugal, and Japan. 
 
-Read my [**blog.**](https://medium.com/@Loopd/meet-brian-friedman-10272a3ba54b)
+Read my [**blog.**](https://medium.com/own-it)
 
 Check out my personal [**website.**](https://brianmfriedman.com)
 
