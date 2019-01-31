@@ -16,14 +16,4 @@ All of this hard work demands an outlet for release, and I am an avid fan of act
 
 For more about my story, see: medium.com/@Loopd/meet-brian-friedman-10272a3ba54b
 
-For all of my public content, see: brianmfriedman.com
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BMF314/brianmfriedman/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For all of my public content, see: https://brianmfriedman.com
