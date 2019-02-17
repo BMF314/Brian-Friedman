@@ -1,6 +1,6 @@
 ## **Hey! My name is Brian. Let's get started.**
 
-![Profile Image](https://lh3.googleusercontent.com/9rBudEdMQ_J6vLaIcsKvHD0EDbqApB-dVsWiq77zUiNoPpkhkZdR2bS7mUfbKRv-2tHCN_xlZiGNZy6ufYrrk5yjWBHcPPetYYaU)
+![Profile Image](https://photos.google.com/share/AF1QipNMZfGOWhDoOYV6kBxBvcy9jF-NwLCjVHdZmaazAeG2Tko4YMuOG76qRSU63HD-aQ?key=Z20yNEtpaUh0VGJCOWU5UDBfY1ZuWjdQNFdvQU1n)
 
 In 2017, I moved to Connecticut from San Francisco where I am now the VP of Digital Innovation at [**Aventri**](https://www.aventri.com), leading the company’s digital strategic objectives. In this role, I work to identify and articulate new product and growth opportunities that can transform—and even disrupt—the events market. Recently, I finished writing my book, Takeaways: Secret truths from leading a startup, that will be released in early 2019. I feature my top insights weekly on my personal blog: OWN IT.
 
@@ -18,6 +18,6 @@ I like to make cool visualizations in my free time. Take a look at this interest
 
 <iframe title="Chart: 2017 Lehigh University Enrollment " aria-describedby="This pie chart shows the percentage of undergraduates enrollment for the four largest colleges in 2017 at Lehigh University. The school of Engineering and Applied  Sciences has the largest student body." id="datawrapper-chart-H0GjJ" src="//datawrapper.dwcdn.net/H0GjJ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
 
-I'm fascinated by weather trends and how our global climate is evolving as technology advances. I made a interactive graph telling the real story behind the rainy city.
+I'm fascinated by weather trends and how our global climate is evolving as technology advances. Check out this interactive graph telling the real story behind the rainy city of Seattle.
 
 <iframe title="Chart: Rain Accumulations in Seattle Since 2002" aria-describedby="This graph shows the monthly accumulations collected by 19 rain gauges located throughout the city limits of Seattle. " id="datawrapper-chart-3hd7r" src="//datawrapper.dwcdn.net/3hd7r/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
