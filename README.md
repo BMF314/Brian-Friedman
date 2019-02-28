@@ -29,3 +29,7 @@ I'm fascinated by weather trends and how our global climate is evolving as techn
 While living in the San Francisco Bay Area I went kiteboarding and mountain biking nearby the China Camp Basin. I enjoy observing environmental trends, so I decided to visualize water sensor data. Here we go:
 
 <iframe title="Chart: China Camp, CA Water Nutrient Readings [January 2017]" aria-describedby="The China Camp water sensor located in the San Francisco Bay actively collects temperature, salinity, depth and pH data. The trends presented are a data subset from 1/1/17 to 1/31/17" id="datawrapper-chart-IF3Ar" src="//datawrapper.dwcdn.net/IF3Ar/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
+
+Lehigh University is a really beautiful campus and features some awesome architecture. I created a short tour, so you can teleport yourself instantly to Bethlehem, PA. Let's fly over:
+
+<iframe width="100%" height="480px" src="https://poly.google.com/view/dwTQShaU5qz/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
