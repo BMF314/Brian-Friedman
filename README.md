@@ -33,3 +33,7 @@ While living in the San Francisco Bay Area I went kiteboarding and mountain biki
 Lehigh University is a really beautiful campus and features some awesome architecture. I created a short tour, so you can teleport yourself instantly to Bethlehem, PA. Let's fly over:
 
 <iframe width="100%" height="480px" src="https://poly.google.com/view/dwTQShaU5qz/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+
+When I can't find valuable and available data sets I use other creative methods for data collection. I scraped the Historic Earthquakes in California using ParseHub and then visualized the trend by date using DataWrapper. Take a look:
+
+<iframe title="Chart: Historic Earthquakes in California Since 1932" aria-describedby="This chart shows all of the major and impactful earthquakes within California over the past 90 years. The earthquakes range in magnitude from 3M to 8M on the Richter scale." id="datawrapper-chart-ST9n7" src="//datawrapper.dwcdn.net/ST9n7/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="584"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
