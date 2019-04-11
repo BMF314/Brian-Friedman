@@ -1,6 +1,6 @@
 ## **Hey! My name is Brian. Let's get started.**
 
-![Profile Image](https://github.com/BMF314/Brian-Friedman/blob/master/UNADJUSTEDNONRAW_thumb_b94.png)
+<img src="https://github.com/BMF314/Brian-Friedman/blob/master/UNADJUSTEDNONRAW_thumb_b94.png">
 
 In 2017, I moved to Connecticut from San Francisco where I am now the VP of Digital Innovation at [**Aventri**](https://www.aventri.com), leading the company’s digital strategic objectives. In this role, I work to identify and articulate new product and growth opportunities that can transform—and even disrupt—the events market. Recently, I finished writing my book, Takeaways: Secret truths from leading a startup, that will be released in early 2019. I feature my top insights weekly on my personal blog: OWN IT.
 
